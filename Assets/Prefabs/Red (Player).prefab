@@ -220,7 +220,7 @@ MonoBehaviour:
   jumpSpeed: 14
   climbSpeed: 2
   deathKick: {x: 20, y: 10}
-  Bullet: {fileID: 0}
+  Bullet: {fileID: 5646871059752578215, guid: c925b9d454a6caf45ba14c5e02e03d36, type: 3}
   Gun: {fileID: 7591665265268552215}
 --- !u!61 &6115910041621662845
 BoxCollider2D:
